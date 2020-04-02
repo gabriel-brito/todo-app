@@ -1,0 +1,1 @@
+always use npx knex migrations:latest before starting code.
